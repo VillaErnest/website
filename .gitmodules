@@ -1,8 +1,8 @@
 [submodule "mysite/themes/congo"]
-	path = mysite/themes/congo
+	path = src/themes/congo
 	url = https://github.com/jpanther/congo.git
 	branch = stable
 [submodule "mysite/public"]
-	path = mysite/public
+	path = src/public
 	url = https://github.com/villaernest/villaernest.github.io
 	branch = main
