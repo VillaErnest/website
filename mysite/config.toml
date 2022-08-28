@@ -1,0 +1,4 @@
+baseURL = "http://villaernest.github.io/"
+languageCode = "en-us"
+title = "Ernest Blog"
+theme = "congo"
